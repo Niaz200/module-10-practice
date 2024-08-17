@@ -1,0 +1,16 @@
+
+লাইভ ক্লাস
+
+২৮ নভে, রাত ৯:০০
+
+এটেন্ড্যান্স স্কোর যুক্ত হবে
+
+ERD Relationships and Constraints in E-commerce Database
+
+টপিক:
+
+etails on Relationship Constraint - RESTRICT, CASCADE | Many-to-Many | One-to-Many | One-to-One
+
+নোট:
+
+One-to-One (1:1), One-to-Many (1:N),Only-One-to-Many (1:N), Many-to-Many (N:M), 

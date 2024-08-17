@@ -1,0 +1,12 @@
+Database Migration Essentials: Conventions, Structure, Types, and Relationships
+
+টপিক:
+
+migration Column Modification Add, Rename, Drop  in laravel | Table Column Modification Add, Rename, 
+Drop in laravel | Details on Database Relationship | Table Column Modification Add, Rename, 
+Drop | Working with different columns types and attributes | Database columns types in migration  | 
+Migration Structure | Exploring Migrations, Naming conventions
+
+নোট:
+
+Exploring Migrations, Naming conventions | Migration Structure, Database columns 
